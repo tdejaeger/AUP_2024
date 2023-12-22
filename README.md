@@ -13,6 +13,7 @@
 
 ## Schedule
 * Lee Ann will do the white parts while Thomas will do the grey parts
+
 | Date |  Topics |	Resources | Reading | Assignments |
 | ---  | ---     | ---        | ----    | -----       |
 | 16/1 | Intro to data and distributions: categorical vs quantitative |            | |       |
