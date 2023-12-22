@@ -1,9 +1,9 @@
-# CS-2065/5065 - Data Science II: Theory and Practice
+# CS-2065/5065 - Data Science II: Theory and Practice: Spring 2024
 
 ## Information
 
 * **Textbook:** [Computational and Inferential Thinking: The Foundations of Data Science](https://aup-cs2065.github.io/textbook/html)
-* **Instructors:** [Lee Ann Galindo Perez](https://www.aup.edu/profile/qnguyen) and [Thomas de Jaeger](https://www.aup.edu/profile/tdejaeger)
+* **Instructors:** [Lee Ann Galindo Perez](https://www.aup.edu/profile/lagalindoperez) and [Thomas de Jaeger](https://www.aup.edu/profile/tdejaeger)
 * **Grading:**
   + 25% Individual HWs
   + 15% Collaborative Labs
@@ -12,7 +12,7 @@
 * **Teams:** [cs2065/cs5065](https://teams.microsoft.com/l/team/19%3aYWw19mwGMNp_z1chK30c7-fT1fnMwfAUnxjRDAMjaJY1%40thread.tacv2/conversations?groupId=0f2d05d4-39ee-465d-b0a5-4c203f5f3624&tenantId=787ea242-36aa-42a4-bfcf-b7cbaad1d83b)
 
 ## Schedule
-
+* Lee Ann will do the white parts while Thomas will do the grey parts
 | Date |  Topics |	Resources | Reading | Assignments |
 | ---  | ---     | ---        | ----    | -----       |
 | 16/1 | Intro to data and distributions: categorical vs quantitative |            | |       |
