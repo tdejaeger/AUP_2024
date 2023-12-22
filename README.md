@@ -39,8 +39,8 @@
 | 13/4  | Why the mean mattaers |    | [Chapter 14](https://aup-cs2065.github.io/textbook/html/chapters/14/Why_the_Mean_Matters.html) |[HW10](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw10%2Fhw10.ipynb) |
 | 17/4 | Multiple Regression |   [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec10.ipynb)        | |  [Lab 08](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flabs&branch=master&urlpath=tree%2Flabs%2Flab08%2Flab08.ipynb) |
 | 20/4 | Prediction |    | [Chapter 15](https://aup-cs2065.github.io/textbook/html/chapters/15/Prediction.html) | [Lab 09]() |
-| 24/4 | Multiple Regression |    [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec11.ipynb)         |         | [HW11](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw11%2Fhw11.ipynb) |
-| 27/4 | Inference and classification |   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) |  |
+| 24/4 | Multiple Regression |    [Demo](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Flecture&branch=master&urlpath=tree%2Flecture%2Flec11.ipynb)         |         |  |
+| 27/4 | Inference and classification |   | [Chapter 16](https://aup-cs2065.github.io/textbook/html/chapters/16/Inference_for_Regression.html), [Chapter 17](https://aup-cs2065.github.io/textbook/html/chapters/17/Classification.html) | [HW11](https://aup.pilot.2i2c.cloud/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAUP-CS2065%2Fhw&branch=master&urlpath=tree%2Fhw%2Fhw11%2Fhw11.ipynb) |
 | 4/5  |  |  [Demo]()    | | [Project 3]() |
 
 ## Course Learning Outcomes
